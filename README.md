@@ -1,4 +1,4 @@
-# iZone Requirements Engineering Project
+# iZone Requirements Engineering Project (EDA)
 
 **Course:** SWE2033 Requirement Engineering  
 **Assignment:** Group Assignment 1: Requirements Elicitation & Tool Use  
