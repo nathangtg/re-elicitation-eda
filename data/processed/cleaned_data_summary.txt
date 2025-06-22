@@ -1,0 +1,12 @@
+iZone Survey Data Cleaning Summary
+========================================
+
+Total Responses: 287
+Valid Responses: 214
+Date Range: 2025-05-29 02:58:00 to 2025-06-18 20:21:02
+
+Response Rates for Key Questions:
+  affiliation: 74.6%
+  usage_frequency: 74.6%
+  overall_satisfaction: 74.6%
+  main_tasks: 74.6%

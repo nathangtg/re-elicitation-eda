@@ -1,0 +1,87 @@
+iZone User Segmentation & Requirements Analysis Report
+============================================================
+Generated on: 2025-06-22 18:23:05
+Total Responses Analyzed: 287
+
+EXECUTIVE SUMMARY
+--------------------
+Identified 4 distinct user segments:
+  • Frustrated Users: 144 users (50.2%)
+  • Power Users: 11 users (3.8%)
+  • Heavy Users: 9 users (3.1%)
+
+SEGMENT CHARACTERISTICS
+-------------------------
+
+FRUSTRATED USERS:
+  Size: 144 users
+  Avg Satisfaction: 2.30/5
+  Avg Usage Frequency: 4.56
+  Avg Task Diversity: 4.33
+  Student Percentage: 63.9%
+
+HEAVY USERS:
+  Size: 9 users
+  Avg Satisfaction: 3.00/5
+  Avg Usage Frequency: 4.00
+  Avg Task Diversity: 6.00
+  Student Percentage: 0.0%
+
+POWER USERS:
+  Size: 11 users
+  Avg Satisfaction: 4.64/5
+  Avg Usage Frequency: 4.64
+  Avg Task Diversity: 3.64
+  Student Percentage: 100.0%
+
+REQUIREMENTS JUSTIFICATION
+----------------------------
+
+FUNCTIONAL REQUIREMENTS:
+
+FR1 - Timetable/Schedule (HIGH Priority):
+  Survey Evidence: Based on 'main_tasks__checking_timetable___class_schedule' usage.
+  Segment Insight: Highest demand from Frustrated Users (100.0%)
+  Business Impact: Core functionality - affects all active users daily/weekly.
+
+FR2 - Academic Results (HIGH Priority):
+  Survey Evidence: Based on 'main_tasks__viewing_academic_results___transcripts' usage.
+  Segment Insight: Highest demand from Heavy Users (100.0%)
+  Business Impact: Critical for academic tracking and student success.
+
+FR3 - Attendance Records (MEDIUM Priority):
+  Survey Evidence: Based on 'main_tasks__checking_attendance_records' usage.
+  Segment Insight: Highest demand from Heavy Users (100.0%)
+  Business Impact: Important for academic compliance and monitoring.
+
+FR4 - Fee Payments (HIGH Priority):
+  Survey Evidence: Based on 'main_tasks__making_fee_payments' usage.
+  Segment Insight: Highest demand from Heavy Users (100.0%)
+  Business Impact: Revenue-critical functionality for institution.
+
+
+NON-FUNCTIONAL REQUIREMENTS:
+
+NFR1 - Performance (HIGH Priority):
+  Survey Evidence: Based on 'most_frustrating__slow_loading_speed___poor_performance' and priority selections.
+  Segment Insight: Most critical for Frustrated Users (91.7% affected)
+  Business Impact: Affects user satisfaction and system adoption.
+
+NFR2 - UI Modernization (HIGH Priority):
+  Survey Evidence: Based on 'most_frustrating__outdated_look_and_feel__ui_design' and priority selections.
+  Segment Insight: Critical for user engagement, specific segment data pending.
+  Business Impact: Critical for user engagement and modern expectations.
+
+NFR3 - Navigation (MEDIUM Priority):
+  Survey Evidence: Based on 'most_frustrating__difficult_to_navigate___find_information' and priority selections.
+  Segment Insight: Most critical for Frustrated Users (37.5% affected)
+  Business Impact: Affects task completion and user efficiency.
+
+
+KEY INSIGHTS & RECOMMENDATIONS
+-----------------------------------
+1. Heavy Users drive the highest demand for functional requirements
+2. Frustrated Users experience the most non-functional issues
+3. UI modernization and performance are universal concerns across segments
+4. Timetable functionality is the most critical feature across all segments
+5. Mobile experience varies significantly by segment - needs targeted improvement
